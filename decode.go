@@ -1,5 +1,8 @@
 package gruby
 
+// #include "gruby.h"
+import "C"
+
 import (
 	"errors"
 	"fmt"
